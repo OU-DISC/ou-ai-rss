@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="feed.xsl"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>OU Artificial Intelligence - Events</title>
+    <link>https://www.ou.edu/ai/news-and-events</link>
+    <description>Upcoming AI and DISC events at the University of Oklahoma.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Oct 2026 14:07:03 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <atom:link href="https://ou-disc.github.io/ou-ai-rss/events.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Importance of Being Human in the Age of AI: AI is an Adaptive Challenge, not a Technical Problem</title>
+      <link>https://calendar.ou.edu/live/events/122252-the-importance-of-being-human-in-the-age-of-ai-ai-is-</link>
+      <guid isPermaLink="false">https://calendar.ou.edu/live/events/122252-the-importance-of-being-human-in-the-age-of-ai-ai-is-#122361</guid>
+      <pubDate>Wed, 14 Oct 2026 20:00:00 +0000</pubDate>
+      <category>Event</category>
+      <description>&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; In person at CFE, location provided after registration&lt;/p&gt;&lt;picture class="lw_image"&gt;
+	&lt;source type="image/webp" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.webp 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.webp 3x" data-origin="responsive"/&gt;
+	&lt;source type="image/png" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 3x" data-origin="responsive"/&gt;
+	&lt;img src="https://calendar.ou.edu/live/image/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png" alt="" width="80" height="80" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 3x" data-max-w="600" data-max-h="600" loading="lazy" data-optimized="true"/&gt;
+&lt;/picture&gt;
+ &lt;p&gt;
+  &lt;span class="TextRun SCXW253188829 BCX2" lang="EN-US" xml:lang="EN-US" data-contrast="none"&gt;&lt;span class="NormalTextRun SCXW253188829 BCX2"&gt;Facilitated by CFE Faculty Fellow Dr. Rebecca Huskey, this session will explore the importance of being human in the age of AI.&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;</description>
+      <media:content url="https://calendar.ou.edu/live/image/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.png" medium="image" />
+    </item>
+    <item>
+      <title>Creativity, AI and the Human Imagination: Mapping the Learning Space</title>
+      <link>https://calendar.ou.edu/live/events/122550-creativity-ai-and-the-human-imagination-mapping-the-l</link>
+      <guid isPermaLink="false">https://calendar.ou.edu/live/events/122550-creativity-ai-and-the-human-imagination-mapping-the-l#122661</guid>
+      <pubDate>Thu, 22 Oct 2026 17:00:00 +0000</pubDate>
+      <category>Event</category>
+      <description>&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; In-person on the Norman Campus, Location provided following registration&lt;/p&gt;&lt;picture class="lw_image"&gt;
+	&lt;source type="image/webp" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.webp 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.webp 3x" data-origin="responsive"/&gt;
+	&lt;source type="image/png" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 3x" data-origin="responsive"/&gt;
+	&lt;img src="https://calendar.ou.edu/live/image/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png" alt="" width="80" height="80" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 3x" data-max-w="600" data-max-h="600" loading="lazy" data-optimized="true"/&gt;
+&lt;/picture&gt;
+ &lt;p&gt;
+  Where does AI actually help your students learn — and where does it quietly let them skip the thinking an assignment is designed to build?
+&lt;/p&gt;</description>
+      <media:content url="https://calendar.ou.edu/live/image/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.png" medium="image" />
+    </item>
+    <item>
+      <title>AI Webinar Series</title>
+      <link>https://calendar.ou.edu/disc/event/123194-ai-webinar-series</link>
+      <guid isPermaLink="false">https://calendar.ou.edu/disc/event/123194-ai-webinar-series#123194</guid>
+      <pubDate>Thu, 22 Oct 2026 17:00:00 +0000</pubDate>
+      <category>Event</category>
+      <description>&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; zoom link provided after registration&lt;/p&gt;&lt;picture class="lw_image"&gt;
+	&lt;source type="image/webp" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.webp 2x, https://calendar.ou.edu/live/image/scale/3x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.webp 3x" data-origin="responsive"/&gt;
+	&lt;source type="image/png" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png 3x" data-origin="responsive"/&gt;
+	&lt;img src="https://calendar.ou.edu/live/image/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png" alt="" width="80" height="80" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png 3x" data-max-w="800" data-max-h="800" loading="lazy" data-optimized="true"/&gt;
+&lt;/picture&gt;
+ &lt;p&gt;
+  Join the Data Institute for Societal Challenges (DISC) and the Office of the Chief AI Officer for our AI Webinar Series.
+&lt;/p&gt;</description>
+      <media:content url="https://calendar.ou.edu/live/image/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.png" medium="image" />
+    </item>
+    <item>
+      <title>Symposium on Tribal Community Resilience and Co-Creation</title>
+      <link>https://calendar.ou.edu/disc/event/122362-symposium-on-tribal-community-resilience-and</link>
+      <guid isPermaLink="false">https://calendar.ou.edu/disc/event/122362-symposium-on-tribal-community-resilience-and#122362</guid>
+      <pubDate>Fri, 23 Oct 2026 14:00:00 +0000</pubDate>
+      <category>Event</category>
+      <description>&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Zarrow Hall, 700 Elm Ave, Norman, OK 73069&lt;/p&gt;&lt;picture class="lw_image"&gt;
+	&lt;source type="image/webp" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.webp 2x, https://calendar.ou.edu/live/image/scale/3x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.webp 3x" data-origin="responsive"/&gt;
+	&lt;source type="image/png" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png 3x" data-origin="responsive"/&gt;
+	&lt;img src="https://calendar.ou.edu/live/image/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png" alt="" width="80" height="80" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png 3x" data-max-w="800" data-max-h="800" loading="lazy" data-optimized="true"/&gt;
+&lt;/picture&gt;
+ &lt;p&gt;Shaping resilient futures through innovation, infrastructure, knowledge sharing, and sovereign, community-driven partnerships.&lt;/p&gt;</description>
+      <media:content url="https://calendar.ou.edu/live/image/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.png" medium="image" />
+    </item>
+    <item>
+      <title>DISC Meet and Greet: OU College of Nursing</title>
+      <link>https://calendar.ou.edu/disc/event/123247-disc-meet-and-greet-ou-college-of-nursing</link>
+      <guid isPermaLink="false">https://calendar.ou.edu/disc/event/123247-disc-meet-and-greet-ou-college-of-nursing#123247</guid>
+      <pubDate>Wed, 04 Nov 2026 18:00:00 +0000</pubDate>
+      <category>Event</category>
+      <description>&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; College of Nursing, 1100 N Stonewall Ave, Room 1800&lt;/p&gt;&lt;picture class="lw_image"&gt;
+	&lt;source type="image/webp" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.webp 2x, https://calendar.ou.edu/live/image/scale/3x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.webp 3x" data-origin="responsive"/&gt;
+	&lt;source type="image/png" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png 3x" data-origin="responsive"/&gt;
+	&lt;img src="https://calendar.ou.edu/live/image/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png" alt="" width="80" height="80" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png 3x" data-max-w="800" data-max-h="800" loading="lazy" data-optimized="true"/&gt;
+&lt;/picture&gt;
+ &lt;p&gt;&lt;span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none"&gt;Join us for a special meet and greet between the DISC and the College of Nursing.&lt;/span&gt;&lt;/p&gt;</description>
+      <media:content url="https://calendar.ou.edu/live/image/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.png" medium="image" />
+    </item>
+    <item>
+      <title>The Importance of Being Human in the Age of AI: What Happens When Students Stop Believing Their Work Matters</title>
+      <link>https://calendar.ou.edu/live/events/122256-the-importance-of-being-human-in-the-age-of-ai-what-h</link>
+      <guid isPermaLink="false">https://calendar.ou.edu/live/events/122256-the-importance-of-being-human-in-the-age-of-ai-what-h#122360</guid>
+      <pubDate>Wed, 04 Nov 2026 21:00:00 +0000</pubDate>
+      <category>Event</category>
+      <description>&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; In person at CFE, location provided after registration&lt;/p&gt;&lt;picture class="lw_image"&gt;
+	&lt;source type="image/webp" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.webp 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.webp 3x" data-origin="responsive"/&gt;
+	&lt;source type="image/png" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 3x" data-origin="responsive"/&gt;
+	&lt;img src="https://calendar.ou.edu/live/image/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png" alt="" width="80" height="80" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 3x" data-max-w="600" data-max-h="600" loading="lazy" data-optimized="true"/&gt;
+&lt;/picture&gt;
+ &lt;p&gt;
+  &lt;span class="TextRun SCXW253188829 BCX2" lang="EN-US" xml:lang="EN-US" data-contrast="none"&gt;&lt;span class="NormalTextRun SCXW253188829 BCX2"&gt;Facilitated by CFE Faculty Fellow Dr. Rebecca Huskey, this session will explore the importance of being human in the age of AI.&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;</description>
+      <media:content url="https://calendar.ou.edu/live/image/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.png" medium="image" />
+    </item>
+    <item>
+      <title>Finding Internal and External Funding</title>
+      <link>https://calendar.ou.edu/live/events/119519-finding-internal-and-external-funding</link>
+      <guid isPermaLink="false">https://calendar.ou.edu/live/events/119519-finding-internal-and-external-funding#119535</guid>
+      <pubDate>Tue, 10 Nov 2026 21:00:00 +0000</pubDate>
+      <category>Event</category>
+      <description>&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Zoom link will be provided following registration.&lt;/p&gt;&lt;picture class="lw_image"&gt;
+	&lt;source type="image/webp" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.webp 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.webp 3x" data-origin="responsive"/&gt;
+	&lt;source type="image/png" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 3x" data-origin="responsive"/&gt;
+	&lt;img src="https://calendar.ou.edu/live/image/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png" alt="" width="80" height="80" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 3x" data-max-w="600" data-max-h="600" loading="lazy" data-optimized="true"/&gt;
+&lt;/picture&gt;
+ &lt;p&gt;
+  Discover new ways to find internal and external funding opportunities for your research and creative activities.
+&lt;/p&gt;</description>
+      <media:content url="https://calendar.ou.edu/live/image/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.png" medium="image" />
+    </item>
+    <item>
+      <title>DUET Faculty Fellow Application Due</title>
+      <link>https://calendar.ou.edu/live/events/123286-duet-faculty-fellow-application-due</link>
+      <guid isPermaLink="false">https://calendar.ou.edu/live/events/123286-duet-faculty-fellow-application-due#123302</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+      <category>Event</category>
+      <description>&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Apply Online&lt;/p&gt;&lt;picture class="lw_image"&gt;
+	&lt;source type="image/webp" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.webp 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.webp 3x" data-origin="responsive"/&gt;
+	&lt;source type="image/png" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 3x" data-origin="responsive"/&gt;
+	&lt;img src="https://calendar.ou.edu/live/image/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png" alt="" width="80" height="80" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 3x" data-max-w="600" data-max-h="600" loading="lazy" data-optimized="true"/&gt;
+&lt;/picture&gt;
+ &lt;p&gt;
+  Apply to be a Faculty Fellow in the Developing Understanding and Engagement Together Program, a pedagogical partnership with OU students.
+&lt;/p&gt;</description>
+      <media:content url="https://calendar.ou.edu/live/image/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.png" medium="image" />
+    </item>
+    <item>
+      <title>AI Webinar Series: Session 2</title>
+      <link>https://calendar.ou.edu/disc/event/123213-ai-webinar-series-session-2</link>
+      <guid isPermaLink="false">https://calendar.ou.edu/disc/event/123213-ai-webinar-series-session-2#123213</guid>
+      <pubDate>Fri, 20 Nov 2026 18:00:00 +0000</pubDate>
+      <category>Event</category>
+      <description>&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Zoom link will be provided after registration&lt;/p&gt;&lt;picture class="lw_image"&gt;
+	&lt;source type="image/webp" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.webp 2x, https://calendar.ou.edu/live/image/scale/3x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.webp 3x" data-origin="responsive"/&gt;
+	&lt;source type="image/png" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png 3x" data-origin="responsive"/&gt;
+	&lt;img src="https://calendar.ou.edu/live/image/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png" alt="" width="80" height="80" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png 3x" data-max-w="800" data-max-h="800" loading="lazy" data-optimized="true"/&gt;
+&lt;/picture&gt;
+ &lt;p&gt;
+  Join the Data Institute for Societal Challenges (DISC) and the Office of the Chief AI Officer for our AI Webinar Series.
+&lt;/p&gt;</description>
+      <media:content url="https://calendar.ou.edu/live/image/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.png" medium="image" />
+    </item>
+    <item>
+      <title>AI Webinar Series: Session 3</title>
+      <link>https://calendar.ou.edu/disc/event/123216-ai-webinar-series-session-3</link>
+      <guid isPermaLink="false">https://calendar.ou.edu/disc/event/123216-ai-webinar-series-session-3#123216</guid>
+      <pubDate>Fri, 11 Dec 2026 18:00:00 +0000</pubDate>
+      <category>Event</category>
+      <description>&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Zoom link will be provided after registration&lt;/p&gt;&lt;picture class="lw_image"&gt;
+	&lt;source type="image/webp" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.webp 2x, https://calendar.ou.edu/live/image/scale/3x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.webp 3x" data-origin="responsive"/&gt;
+	&lt;source type="image/png" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png 3x" data-origin="responsive"/&gt;
+	&lt;img src="https://calendar.ou.edu/live/image/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png" alt="" width="80" height="80" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.rev.1652277532.png 3x" data-max-w="800" data-max-h="800" loading="lazy" data-optimized="true"/&gt;
+&lt;/picture&gt;
+ &lt;p&gt;
+  Join the Data Institute for Societal Challenges (DISC) and the Office of the Chief AI Officer for our AI Webinar Series.
+&lt;/p&gt;</description>
+      <media:content url="https://calendar.ou.edu/live/image/gid/163/width/80/height/80/crop/1/src_region/0,0,800,800/3637_DISC-Logo-squared.png" medium="image" />
+    </item>
+    <item>
+      <title>Community Engagement and the University: Telling your Research Story</title>
+      <link>https://calendar.ou.edu/live/events/123291-community-engagement-and-the-university-telling-your-</link>
+      <guid isPermaLink="false">https://calendar.ou.edu/live/events/123291-community-engagement-and-the-university-telling-your-#123300</guid>
+      <pubDate>Wed, 16 Dec 2026 21:00:00 +0000</pubDate>
+      <category>Event</category>
+      <description>&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; In-person on the Norman Campus, Location provided following registration&lt;/p&gt;&lt;picture class="lw_image"&gt;
+	&lt;source type="image/webp" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.webp 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.webp 3x" data-origin="responsive"/&gt;
+	&lt;source type="image/png" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 3x" data-origin="responsive"/&gt;
+	&lt;img src="https://calendar.ou.edu/live/image/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png" alt="" width="80" height="80" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 3x" data-max-w="600" data-max-h="600" loading="lazy" data-optimized="true"/&gt;
+&lt;/picture&gt;
+ &lt;p&gt;
+  &lt;span data-contrast="none"&gt;Connecting with the public to tell your research story.&lt;/span&gt;&lt;span data-ccp-props="{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:278}"&gt;&lt;/span&gt;
+&lt;/p&gt;</description>
+      <media:content url="https://calendar.ou.edu/live/image/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.png" medium="image" />
+    </item>
+    <item>
+      <title>Grading Oasis: Focus on Grading in a Communal Grading Space</title>
+      <link>https://calendar.ou.edu/live/events/123297-grading-oasis-focus-on-grading-in-a-communal-grading-</link>
+      <guid isPermaLink="false">https://calendar.ou.edu/live/events/123297-grading-oasis-focus-on-grading-in-a-communal-grading-#123303</guid>
+      <pubDate>Thu, 17 Dec 2026 15:00:00 +0000</pubDate>
+      <category>Event</category>
+      <description>&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; In-person on the Norman Campus, Location provided following registration&lt;/p&gt;&lt;picture class="lw_image"&gt;
+	&lt;source type="image/webp" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.webp 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.webp 3x" data-origin="responsive"/&gt;
+	&lt;source type="image/png" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 3x" data-origin="responsive"/&gt;
+	&lt;img src="https://calendar.ou.edu/live/image/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png" alt="" width="80" height="80" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 3x" data-max-w="600" data-max-h="600" loading="lazy" data-optimized="true"/&gt;
+&lt;/picture&gt;
+ &lt;p&gt;Join CFE to grade, light snacks provided.&lt;/p&gt;</description>
+      <media:content url="https://calendar.ou.edu/live/image/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.png" medium="image" />
+    </item>
+    <item>
+      <title>Community Engagement and the University: Telling your Research Story</title>
+      <link>https://calendar.ou.edu/live/events/123293-community-engagement-and-the-university-telling</link>
+      <guid isPermaLink="false">https://calendar.ou.edu/live/events/123293-community-engagement-and-the-university-telling#123301</guid>
+      <pubDate>Thu, 17 Dec 2026 21:00:00 +0000</pubDate>
+      <category>Event</category>
+      <description>&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; In-person on the Norman Campus, Location provided following registration&lt;/p&gt;&lt;picture class="lw_image"&gt;
+	&lt;source type="image/webp" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.webp 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.webp 3x" data-origin="responsive"/&gt;
+	&lt;source type="image/png" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 3x" data-origin="responsive"/&gt;
+	&lt;img src="https://calendar.ou.edu/live/image/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png" alt="" width="80" height="80" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 3x" data-max-w="600" data-max-h="600" loading="lazy" data-optimized="true"/&gt;
+&lt;/picture&gt;
+ &lt;p&gt;
+  &lt;span data-contrast="none"&gt;Connecting with the public to tell your research story.&lt;/span&gt;&lt;span data-ccp-props="{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:278}"&gt;&lt;/span&gt;
+&lt;/p&gt;</description>
+      <media:content url="https://calendar.ou.edu/live/image/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.png" medium="image" />
+    </item>
+    <item>
+      <title>Grading Oasis: Focus on Grading in a Communal Grading Space</title>
+      <link>https://calendar.ou.edu/live/events/123298-grading-oasis-focus-on-grading-in-a-communal</link>
+      <guid isPermaLink="false">https://calendar.ou.edu/live/events/123298-grading-oasis-focus-on-grading-in-a-communal#123304</guid>
+      <pubDate>Fri, 18 Dec 2026 15:00:00 +0000</pubDate>
+      <category>Event</category>
+      <description>&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; In-person on the Norman Campus, Location provided following registration&lt;/p&gt;&lt;picture class="lw_image"&gt;
+	&lt;source type="image/webp" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.webp 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.webp 3x" data-origin="responsive"/&gt;
+	&lt;source type="image/png" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 3x" data-origin="responsive"/&gt;
+	&lt;img src="https://calendar.ou.edu/live/image/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png" alt="" width="80" height="80" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.rev.1611607360.png 3x" data-max-w="600" data-max-h="600" loading="lazy" data-optimized="true"/&gt;
+&lt;/picture&gt;
+ &lt;p&gt;Join CFE to grade, light snacks provided.&lt;/p&gt;</description>
+      <media:content url="https://calendar.ou.edu/live/image/gid/32/width/80/height/80/crop/1/src_region/0,0,600,600/3189_cfe_event_image.png" medium="image" />
+    </item>
+    <item>
+      <title>Placemaking Conference</title>
+      <link>https://calendar.ou.edu/live/events/118739-placemaking-conference</link>
+      <guid isPermaLink="false">https://calendar.ou.edu/live/events/118739-placemaking-conference#122662</guid>
+      <pubDate>Mon, 22 Mar 2027 05:00:00 +0000</pubDate>
+      <category>Event</category>
+      <description>&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Catlett Hall&lt;/p&gt;&lt;picture class="lw_image"&gt;
+	&lt;source type="image/webp" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/182/width/80/height/80/crop/1/src_region/0,0,2160,2700/5316_Placemaking_Save_the_Date-3.rev.1787243588.webp 2x, https://calendar.ou.edu/live/image/scale/3x/gid/182/width/80/height/80/crop/1/src_region/0,0,2160,2700/5316_Placemaking_Save_the_Date-3.rev.1787243588.webp 3x" data-origin="responsive"/&gt;
+	&lt;source type="image/png" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/182/width/80/height/80/crop/1/src_region/0,0,2160,2700/5316_Placemaking_Save_the_Date-3.rev.1787243588.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/182/width/80/height/80/crop/1/src_region/0,0,2160,2700/5316_Placemaking_Save_the_Date-3.rev.1787243588.png 3x" data-origin="responsive"/&gt;
+	&lt;img src="https://calendar.ou.edu/live/image/gid/182/width/80/height/80/crop/1/src_region/0,0,2160,2700/5316_Placemaking_Save_the_Date-3.rev.1787243588.png" alt="" width="80" height="80" srcset="https://calendar.ou.edu/live/image/scale/2x/gid/182/width/80/height/80/crop/1/src_region/0,0,2160,2700/5316_Placemaking_Save_the_Date-3.rev.1787243588.png 2x, https://calendar.ou.edu/live/image/scale/3x/gid/182/width/80/height/80/crop/1/src_region/0,0,2160,2700/5316_Placemaking_Save_the_Date-3.rev.1787243588.png 3x" data-max-w="2160" data-max-h="2700" loading="lazy" data-optimized="true"/&gt;
+&lt;/picture&gt;</description>
+      <media:content url="https://calendar.ou.edu/live/image/gid/182/width/80/height/80/crop/1/src_region/0,0,2160,2700/5316_Placemaking_Save_the_Date-3.png" medium="image" />
+    </item>
+  </channel>
+</rss>

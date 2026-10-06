@@ -1,0 +1,75 @@
+{
+  "initialized": true,
+  "news": {
+    "https://www.ou.edu/ai/news-and-events/2027/congratulations-to-the-2026-staff-ai-challenge-winners-": {
+      "description": "Thank you to everyone who participated and took the time to build your AI knowledge and skills. The 2026 Staff AI Challenge engaged 474 unique participants, who collectively completed more than 1,724 hours of learning. This strong participation demonstrates the growing interest in AI across the University and the many ways our staff are exploring its potential, and its limitations, to support...",
+      "first_seen": "2026-09-15T12:00:00+00:00",
+      "image": "https://www.ou.edu/content/dam/website-wordmarks/ou-logo-square.png",
+      "list_order": 0,
+      "title": "Congratulations to the 2026 Staff AI Challenge Winners!"
+    },
+    "https://www.ou.edu/disc/news-events/newsroom-events/2025/disc-hosts-interdisciplinary-energy-panel-seminar-highlighting-r": {
+      "description": "The Data Institute for Societal Challenges (DISC) at the University of Oklahoma hosted an interdisciplinary Energy Panel Seminar on December 3, 2025, bringing together over 40 leading experts from across campus for a virtual conversation on the future of energy. The one-hour online event featured faculty from Petroleum and Geological Engineering, Economics, Electrical and Computer Engineering,...",
+      "first_seen": "2025-12-05T12:00:00+00:00",
+      "image": "https://www.ou.edu/content/dam/disc/images/news/2025/EnergyPanelFinal.png",
+      "list_order": 5,
+      "title": "DISC Hosts Interdisciplinary Energy Panel Seminar Highlighting Research, Policy, and Market Trends"
+    },
+    "https://www.ou.edu/disc/news-events/newsroom-events/2025/nasa-arset-training-features-dr--wimberly-on-malaria-forecasting": {
+      "description": "Dr. Mike Wimberly, Interim Director of the Data Institute for Societal Challenges (DISC) and Professor in the Department of Geography and Environmental Sustainability at the University of Oklahoma, served as an instructor for NASA’s Remote Sensing for Climate-Sensitive Diseases training, held on October 7 and 9, 2025.",
+      "first_seen": "2025-10-20T12:00:00+00:00",
+      "image": "https://www.ou.edu/content/dam/disc/images/news/2025/ATSETimg.png",
+      "list_order": 6,
+      "title": "NASA ARSET Training Features Dr. Wimberly on Malaria Forecasting with Satellite Data"
+    },
+    "https://www.ou.edu/disc/news-events/newsroom-events/2025/ou-hosts-ai-symposium-showcasing-innovation-and-collaboration": {
+      "description": "The University of Oklahoma brought together over 225 faculty, students, and staff on September 26, 2025, for the OU AI Symposium: From Foundations to Future. Sponsored by the Data Institute for Societal Challenges (DISC), the day-long event highlighted the university’s growing leadership in artificial intelligence research, education, and responsible implementation.",
+      "first_seen": "2025-10-07T12:00:00+00:00",
+      "image": "https://www.ou.edu/content/dam/disc/images/ai-symposium/aisympcroud.jpg",
+      "list_order": 7,
+      "title": "OU Hosts AI Symposium Showcasing Innovation and Collaboration"
+    },
+    "https://www.ou.edu/disc/news-events/newsroom-events/2025/ou-researchers-receive--150-000-grant-to-explore-generative-ai-i": {
+      "description": "The University of Oklahoma has received a $150,000 grant from the Institute of Museum and Library Services (IMLS) to study how generative AI can be integrated into children’s maker-based learning in public libraries.",
+      "first_seen": "2025-10-03T12:00:00+00:00",
+      "image": "https://www.ou.edu/content/dam/disc/images/headshots/Liu.Jung.Combined.png",
+      "list_order": 8,
+      "title": "OU Researchers Receive $150,000 Grant to Explore Generative AI in Children’s Maker Learning"
+    },
+    "https://www.ou.edu/disc/news-events/newsroom-events/2026/disc-thanks-interim-director-dr--mike-wimberly-and-welcomes-dr--": {
+      "description": "The Data Institute for Societal Challenges (DISC) at the University of Oklahoma is proud to recognize the outstanding leadership of Dr. Michael C. Wimberly, who served as Interim Director during Fiscal Year 2026, and to welcome Dr. Shishir Shah as DISC's new Director.",
+      "first_seen": "2026-07-15T12:00:00+00:00",
+      "image": "https://www.ou.edu/content/dam/disc/images/mikeandshishir.png",
+      "list_order": 3,
+      "title": "DISC Thanks Interim Director Dr. Mike Wimberly and Welcomes Dr. Shishir Shah as Director"
+    },
+    "https://www.ou.edu/disc/news-events/newsroom-events/2026/one-idea--one-grant--one-university--how-disc-connects-ou-s-rese": {
+      "description": "NORMAN, OKLA. — A new report from the Data Institute for Societal Challenges (DISC) shows how the institute is turning collaborative research into measurable results for the University of Oklahoma — from seed funding and student training to hundreds of millions of dollars in external research support.",
+      "first_seen": "2026-07-28T12:00:00+00:00",
+      "image": "https://www.ou.edu/content/dam/disc/images/DISCTeam25CropResize.jpg",
+      "list_order": 2,
+      "title": "One Idea, One Grant, One University: How DISC Connects OU's Research Ecosystem"
+    },
+    "https://www.ou.edu/news/articles/2025/august/ou-enters-next-phase-of-ai-innovation": {
+      "description": "To expand AI-driven innovation at the university and further a commitment to providing students with a leading AI education, OU has named Shishir Shah, Ph.D., as the first university-wide Chief Artificial Intelligence Officer, pending OU Regents’ approval.",
+      "first_seen": "2026-09-08T12:00:00+00:00",
+      "image": "https://www.ou.edu/content/dam/news/images/articles/2025/august/Shah headshot edit.png",
+      "list_order": 9,
+      "title": "OU Enters Next Phase of AI Innovation"
+    },
+    "https://www.ou.edu/news/articles/2025/december/ou-researcher-awarded-funds-to-pursue-ai-powered-material-design": {
+      "description": "Mike Banad, a researcher with the University of Oklahoma, has been awarded funding from the U.S. Department of Defense to pursue the development of advanced materials that could shape the future of energy-efficient electronics and photonics.",
+      "first_seen": "2026-01-15T12:00:00+00:00",
+      "image": "https://www.ou.edu/content/dam/news/images/articles/2025/december/mike-banad-2025.jpg",
+      "list_order": 4,
+      "title": "OU Researcher Awarded Funding to Pursue AI-Powered Material Design"
+    },
+    "https://www.ou.edu/news/articles/2026/September/health-campus-ai-potential-improve-health-oklahoma": {
+      "description": "The opportunities and challenges of artificial intelligence took center stage at the first AI Symposium on the OU Health Campus, which brought together leaders from the university and clinical enterprise to explore how AI can shape the future of healthcare.",
+      "first_seen": "2026-09-15T12:00:00+00:00",
+      "image": "https://www.ou.edu/content/dam/news/images/articles/2026/september/AI-in-Health-Symposium.jpg",
+      "list_order": 1,
+      "title": "OU Health Campus explores AI’s potential to improve health in Oklahoma"
+    }
+  }
+}
