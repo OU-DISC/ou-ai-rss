@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>OU AI RSS Feeds</title>
+  <link rel="alternate" type="application/rss+xml" title="OU AI - News &amp; Events" href="all.xml">
+  <link rel="alternate" type="application/rss+xml" title="OU AI - News" href="news.xml">
+  <link rel="alternate" type="application/rss+xml" title="OU AI - Events" href="events.xml">
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,sans-serif;max-width:760px;margin:2rem auto;padding:0 16px;color:#222;background:#fff}
+    h1{color:#841617}
+    li{margin:.4em 0}
+    a{color:#841617}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:24px;margin-top:2rem}
+  </style>
+</head>
+<body>
+  <h1>OU Artificial Intelligence RSS feeds</h1>
+  <p>Subscribe in any RSS reader to get updates from the <a href="https://www.ou.edu/ai/news-and-events">OU AI News &amp; Events</a> page.</p>
+  <ul>
+    <li><a href="all.xml">News &amp; Events (combined)</a></li>
+    <li><a href="news.xml">News only</a></li>
+    <li><a href="events.xml">Events only</a></li>
+  </ul>
+  <p>Feeds refresh automatically every 3 hours.</p>
+
+  <h2>Preview</h2>
+  <div class="grid">
+    <div class="ou-ai-rss" data-feed="news.xml" data-limit="5" data-title="Latest AI News"></div>
+    <div class="ou-ai-rss" data-feed="events.xml" data-limit="5" data-title="Upcoming Events"></div>
+  </div>
+  <script src="widget.js" defer></script>
+</body>
+</html>
